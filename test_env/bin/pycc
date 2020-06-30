@@ -1,0 +1,3 @@
+#!/home/yfyourfriend/Documents/cloned/complex_fractal/py-mandelbrot/test_env/bin/python3.7
+from numba.pycc import main
+main()
